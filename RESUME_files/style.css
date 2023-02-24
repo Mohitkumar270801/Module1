@@ -1,0 +1,72 @@
+.btn{
+    height: 180px;
+    width: 150px;
+    border-radius:100%;
+    margin-left:50% ;
+ }
+ body{
+    background-color:rgb(178, 178, 214);
+ }
+ h1:hover{
+    background-color: rgb(151, 159, 180);
+    color:rgb(16, 15, 19) ;
+    cursor: pointer;
+ } 
+ h1{
+    font-family:'Times New Roman', Times, serif;
+  } 
+  
+  .abc{
+
+   text-decoration: none;
+    /* margin-left: 73%; */
+    margin-bottom: 5;
+    color: black;
+
+      
+  }  
+.p2{
+   background-color: rgb(166, 172, 172);
+   border: 2px solid black;
+   border-style: dotted;
+   text-align: center;
+   width:15%;
+   display: inline-block; 
+   align-items: center;
+   margin: 10px;
+   font-weight: bold;
+   
+
+}
+.p4{
+   font-weight: bold;
+   
+}
+
+/*.abc:visited{
+   background-color: pink;
+   color: brown;
+}*/
+.p3{
+   text-decoration: underline;
+}
+.p2:hover{
+   background-color: antiquewhite;
+   cursor: pointer;
+
+}
+.y{
+   background-color: rgb(106, 119, 156);
+}
+.hr2{
+   height: 5px;
+   background-color: rgb(93, 93, 121);
+}
+.btn:hover{
+   box-shadow: 8px  5px rgb(77, 63, 63);
+   cursor: pointer;
+   transition: 0.8s;
+   transform:scale(1.1,1.2);
+   
+
+}
